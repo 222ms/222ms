@@ -1,6 +1,6 @@
 -👋 Hi, I’m @222ms
 - my wifi is really bad so im called 222ms
-- Im a CS in the TU Dortmund.
+
 
 
 
